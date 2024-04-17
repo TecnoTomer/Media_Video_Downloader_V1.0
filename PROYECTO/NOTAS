@@ -1,0 +1,57 @@
+###############
+POR IMPLEMENTAR
+###############
+
+1# Etiquetado automático de archivos: Función que agrega automáticamente metadatos como el título, el artista, el álbum, etc., a los archivos de audio descargados.
+
+2# Extracción de subtítulos/LYRICS: Capacidad para descargar los subtítulos de los videos junto con el contenido principal.
+
+3# Soporte técnico: Proporcionar soporte técnico eficiente para resolver cualquier problema que los usuarios puedan enfrentar durante el uso del software.
+
+4# Velocidad de descarga rápida: Optimizar el proceso de descarga para obtener velocidades rápidas y eficientes.
+
+5# Conversión de formatos: Capacidad para convertir los archivos descargados a diferentes formatos de archivo como MP4, MP3, AVI, etc.
+
+
+####################
+FUNCIONES TERMINADAS
+####################
+
+#Alertas.py: Funciones para mostrar alertas dependiendo el proceso del sistema
+	alerta_ok: 
+		muestra alerta con icono de aviso con boton "aceptar"
+	alerta_error: 
+		muestra alerta con icono rojo de error con botones "anular, reintentar, omitir"
+	alerta_aceptar: 
+		muestra alerta de aviso amarrillo con dos botones"aceptar, cancelar"
+	alerta_aceptar_sin: 
+		igual a la anterior solo que esta alerta no depende de una vantana, para no parar el funcionamiento de los demas funciones del programa
+	alerta_cerrar: 
+		muestra alerta con el icono amarillo con boton "aceptar, cancelar"
+	alerta_Amarilla: 
+		muestra alerta amarilla con boton "aceptar"
+
+#Home_Funciones.py: funciones para instanciar la ventana principal root
+	al_cerrar_ventana: 
+		funcion para al detectar que cierro el programa desde 'X' de windows, matar otros procesos
+	screen_holding: 
+		funcion para ejecutar el inicialiador de holding mientras el programa carga
+	Barra_superior: 
+		funcion con todos los items necesarios para la barra de la ventana principal, botones y demas
+	crear_windows_principal: 
+		funcion que crea la ventana principal de donde se parten varios frames para las otras ventanas
+
+#Botones_Funciones.py:
+	selecion_boton(self): 
+		funcion para darle un efecto al pasar el mouse sobre los botones de la barra superior, se le pasa como parametro el boton que obtendra el efecto, la funcion toma de varibales dos colores uno para selecionar y otro para el estado normal del boton.
+	seleccionar_label(label, imagen_original, imagen_hover):
+		funcion para botones tipo imagenes, para efecto de cambio de la imagen cuando se seleciona con el mouse, recice el label o boton, la imagen original, y luego la imagen que se cambiara cuando pase el mouse sobre el boton.
+	cambio_ventana(ventana_factory, frame):
+		funcion para iteral sobre el cambio de ventanas/pantallas/frames, destrye el contenido del frame actual y crea un nuevo con el nombre de ventana_factory!
+	logos(logo, ancho, alto, x, y):
+		funcion para instanciar una imagen o logo, en la aplicacion recive el nombre de la imagen, ancho y alto y posicion en el aplicativo.
+	search_boton(logo, hover, ancho, alto, x, y):
+		funcion unica para instanciar la imagen que simulara una barra de busqueda personalizado.
+	Barra_busqueda(parent, width, x, y):
+		funciones unica para crear la barra de busqueda tipo entry, que ira sobre el search_boton.
+	
