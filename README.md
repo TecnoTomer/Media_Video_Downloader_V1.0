@@ -35,7 +35,7 @@
 
    		- Descargar seleccion:
    			Esta funcion sirve para descargar videos o audios uno por uno, primero selecionas el video de la lista visible, luego selecionas el formato Mp3/Mp4, luego selecionas la calidad (en el caso de MP3 no funciona la calidad), y luego das click en el boton descargar selecion:
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/8.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F8.PNG)
 
    		- Descargar Todo:
    			Esta funcion sirve para descargar toda la lista de reproducion que tengas en el campo visible, en este caso solo debes selecionar el formato de descarga y la calidad si aplica, y dar click en el boton descargar todo:
