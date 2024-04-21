@@ -25,13 +25,13 @@
    		- Busqueda de una PlayList / Lista de videos de reproduccion de yotube:
    			Esta funcion para buscar la lista completa de un curso por ejemplo de youtube o cualquier otra lista de reproducion, busca el video en yotube o por medio de la funcion buscar por nombre, pega la URL de la lista de reproduccion (ojo no del video si no de la lista de videos completa), y darle click en la LUPA, para buscar no un video si no toda la lista completa:
    ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F9.PNG)
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/10.PNG)
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/11.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F10.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F11.PNG)
 
    		- Funciones de Fromato y calidad:
    			Esta funcion sirve para una ves teniendo los videos o playlist para descargar, podamos selecionar entre formato Mp3(audio) y formato Mp4(Video), y ademas selecionar la calidad del video que queremos (la calidad solo esta dispible en formato Mp4 y no en Mp3), para luego descargar nuesto archivo de medios:
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/14.PNG)
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/15.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F14.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F15.PNG)
 
    		- Descargar seleccion:
    			Esta funcion sirve para descargar videos o audios uno por uno, primero selecionas el video de la lista visible, luego selecionas el formato Mp3/Mp4, luego selecionas la calidad (en el caso de MP3 no funciona la calidad), y luego das click en el boton descargar selecion:
@@ -39,7 +39,7 @@
 
    		- Descargar Todo:
    			Esta funcion sirve para descargar toda la lista de reproducion que tengas en el campo visible, en este caso solo debes selecionar el formato de descarga y la calidad si aplica, y dar click en el boton descargar todo:
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/13.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F13.PNG)
 
 
 # Notas:
