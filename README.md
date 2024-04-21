@@ -6,25 +6,25 @@
         Muy util a la hora de descargar una playlist de videos de youtube o videos por separados.
 
         - Vista previa del proyecto, click a la imagen para ver el video en yotube:
-   [![Video Demo](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/1.PNG)](https://youtu.be/w9cXIlg8cO8)
+   [![Video Demo](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F1.PNG)](https://youtu.be/w9cXIlg8cO8)
    
    		- Vista previa de la app:
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/2.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F2.PNG)
 
    		- Busqueda de videos por nombre:
    			Esta funcion para buscar videos por su nombre y no por la URL, puedes escribir el nombre del video que gustes y dar click en el boton del icono de Youtube, esto abrira en el navegador youtube con los resultados de la busqueda, por si no conoces el URL o link de tu video usas esta funcion para buscarlo por le nombre y luego puedes copiar el URL directamente de la pagina de youtube y pegarlo para luego descargarlo:
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/3.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F3.PNG)
 
    		- Busqueda de videos individuales:
    			Esta funcion para buscar videos por la URL, ya teniendo la URL del video que deseas descargar pegala en el campo de entry/busqueda, y luego presiona el boton de la LUPA, para buscar un video en particualr, puedes repetir esta accion cuantas veces quieras y formar tu propia lista de videos:
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/4.PNG)
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/5.PNG)
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/6.PNG)
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/7.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F4.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F5.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F6.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F7.PNG)
 
    		- Busqueda de una PlayList / Lista de videos de reproduccion de yotube:
    			Esta funcion para buscar la lista completa de un curso por ejemplo de youtube o cualquier otra lista de reproducion, busca el video en yotube o por medio de la funcion buscar por nombre, pega la URL de la lista de reproduccion (ojo no del video si no de la lista de videos completa), y darle click en la LUPA, para buscar no un video si no toda la lista completa:
-   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/9.PNG)
+   ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO%2FGUI%2FCapts%2F9.PNG)
    ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/10.PNG)
    ![ICONO](https://github.com/emerson199818/Media_Video_Downloader_V1.0/blob/main/PROYECTO/GUI/Capts/11.PNG)
 
